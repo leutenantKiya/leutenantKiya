@@ -70,7 +70,7 @@
 profile:
   handle: "leutenantKiya"
   basecamp: "a small coding camp beside a quiet lake"
-  compass: "helpful tools with a warm interface"
+  headquarter : Jogja
 
 building:
   - "Telegram bot experiences"
